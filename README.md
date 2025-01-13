@@ -50,6 +50,6 @@ npm start
 
 Open your browser and go to http://localhost:3000
 
-7.**Deploying the Frontend (React) - Vercel **
+7.**Deploying the Frontend (React) - Vercel**
 
 8.**Deploying the Backend (Node.js/Express) - Heroku**
