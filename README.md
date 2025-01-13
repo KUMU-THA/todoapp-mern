@@ -37,11 +37,19 @@ A fully functional Todo application built using the MERN (MongoDB, Express.js, R
    cd todoapp-mern
 2.cd server
 npm install
+
 3.cd ../client
 npm install
+
 4.npm start
+
 5.cd ../client
 npm start
+
 6.**Access the Application:**
 
 Open your browser and go to http://localhost:3000
+
+7.**Deploying the Frontend (React) - Vercel **
+
+8.**Deploying the Backend (Node.js/Express) - Heroku**
